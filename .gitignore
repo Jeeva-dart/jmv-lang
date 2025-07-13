@@ -1,0 +1,25 @@
+# Compiled binaries and objects
+*.o
+*.out
+*.exe
+*.dSYM/
+output
+lexer
+compiler
+jmvlang
+
+# Assembly output
+output.s
+
+# OS files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Backup files
+*~
+*.swp
+
+# Logs
+*.log
